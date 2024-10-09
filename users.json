@@ -1,0 +1,26 @@
+[
+  {
+    "username": "MichaelC",
+    "password": "123456",
+    "inviteRec": [
+      { "username": "JamesA", "type": "Read", "dateGiven": "14/Oct/2024" },
+      { "username": "JamesD", "type": "Write", "dateGiven": "12/Oct/2024" },
+      { "username": "JamesF", "type": "Read", "dateGiven": "13/Oct/2024" }
+    ],
+    "inviteGiv": [
+      { "username": "JamesB", "type": "Write", "dateGiven": "14/Oct/2024" },
+      { "username": "JamesC", "type": "Write", "dateGiven": "12/Oct/2024" },
+      { "username": "JamesF", "type": "Read", "dateGiven": "13/Oct/2024" }
+    ]
+  },
+  {
+    "username": "JamesA",
+    "password": "123456"
+  },
+  { "username": "JamesB", "password": "123456" },
+  { "username": "JamesC", "password": "123456" },
+  { "username": "JamesD", "password": "123456" },
+  { "username": "JamesE", "password": "123456" },
+  { "username": "JamesF", "password": "123456" },
+  { "username": "JamesG", "password": "123456" }
+]
